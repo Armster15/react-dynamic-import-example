@@ -26,7 +26,4 @@ module.exports = {
       },
     },
   },
-  plugins: [
-    require('tailwindcss-children'),
-  ],
 };
